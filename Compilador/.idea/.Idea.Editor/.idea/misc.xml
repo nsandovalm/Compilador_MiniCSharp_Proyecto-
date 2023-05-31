@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/Editor/Gramatica/Scanner.g4" />
+          <option name="outputDir" value="C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="Generated" />
+          <option name="language" value="CSharp" />
+          <option name="generateListener" value="false" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/Editor/Gramatica/MiniCSharpParser.g4" />
+          <option name="outputDir" value="C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="Generated" />
+          <option name="language" value="CSharp" />
+          <option name="generateListener" value="false" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+</project>
