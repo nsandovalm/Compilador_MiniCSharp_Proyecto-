@@ -1,0 +1,186 @@
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\obj\Debug\Editor.csproj.AssemblyReference.cache
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\obj\Debug\Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\obj\Debug\Editor.Edit.resources
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Antlr4BuildTasks.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Microsoft.IO.Redist.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Microsoft.NET.StringTools.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Buffers.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.CodeDom.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Memory.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Security.Permissions.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Microsoft.IO.Redist.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\Microsoft.NET.StringTools.pdb
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Buffers.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.CodeDom.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Memory.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Security.Permissions.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Melany\Desktop\COMPILADORES E INTERPRETES\PROYECTOS\Editor\Editor\obj\Debug\Editor.csproj.CopyComplete
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Antlr4BuildTasks.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.IO.Redist.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.NET.StringTools.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Memory.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.Permissions.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.IO.Redist.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.NET.StringTools.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Memory.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.Permissions.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\obj\Debug\Editor.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\obj\Debug\Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\obj\Debug\Editor.Edit.resources
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\obj\Debug\Editor.csproj.CopyComplete
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Antlr4BuildTasks.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Microsoft.IO.Redist.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Microsoft.NET.StringTools.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Memory.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Security.Permissions.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Microsoft.IO.Redist.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\Microsoft.NET.StringTools.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Memory.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Security.Permissions.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\obj\Debug\Editor.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\obj\Debug\Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\obj\Debug\Editor.Edit.resources
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\obj\Debug\Editor.csproj.CopyComplete
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIProyecto\Progra\Melany_Noelia_IIProyecto\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Antlr4BuildTasks.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.IO.Redist.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.NET.StringTools.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Memory.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.Permissions.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.IO.Redist.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\Microsoft.NET.StringTools.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Memory.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.Permissions.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\obj\Debug\Editor.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\obj\Debug\Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\obj\Debug\Editor.Edit.resources
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\obj\Debug\Editor.csproj.CopyComplete
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\Escritorio\I Semestre 2023\Compiladores_e_Interpretes\IIIProyecto\Progra\Editor\Editor\obj\Debug\Editor.pdb
